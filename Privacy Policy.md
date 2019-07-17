@@ -9,7 +9,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 Collection of Information
  
 Information You Provide to Us
-We collect information you provide directly to us. For example, we collect information when you create an account, request customer support or otherwise communicate with us. The types of information we may collect include your username, password, email address, phone number, age and any other information you choose to provide.
+<br><br>We collect information you provide directly to us. For example, we collect information when you create an account, request customer support or otherwise communicate with us. The types of information we may collect include your username, password, email address, phone number, age and any other information you choose to provide.
  
 Information We Collect Automatically When You Use the Services
 When you access or use our Services, we automatically collect information about you, including:
