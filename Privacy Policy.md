@@ -1,29 +1,19 @@
 Privacy Policy
-<br>Last Updated: July 17, 2019
- 
+<br>Last Updated: July 17, 2019 
 <br><br>This Privacy Policy explains how information about you is collected, used and disclosed by Craftsman Spirit, Inc. and our subsidiaries (collectively, "Craftsman Spirit") when you use our websites, mobile applications and other online products and services (collectively, the "Services") or when you otherwise interact with us.
- 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our websites' homepages or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
- 
- 
-Collection of Information
- 
-Information You Provide to Us
+<br><br>We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our websites' homepages or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
+<br><br>Collection of Information
+<br><br>Information You Provide to Us
 <br>We collect information you provide directly to us. For example, we collect information when you create an account, request customer support or otherwise communicate with us. The types of information we may collect include your username, password, email address, phone number, age and any other information you choose to provide.
- 
-Information We Collect Automatically When You Use the Services
+<br><br>Information We Collect Automatically When You Use the Services
 <br>When you access or use our Services, we automatically collect information about you, including:
 <br>Log Information: We log information about your use of our websites, including your browser type and language, access times, pages viewed, your IP address and the website you visited before navigating to our websites.
 <br>Device Information: We may collect information about the computer or device you use to access our Services, including the hardware model, operating system and version, MAC address, unique device identifier, phone number, International Mobile Equipment Identity ("IMEI") and mobile network information. In addition, the Services may access your device's native phonebook and image storage applications, with your consent, to facilitate your use of certain features of the Services. For more information about how you can control our access to these applications, please see "Your Choices" below.
 <br>Location Information: With your consent, we may collect information about the location of your device to facilitate your use of certain features of our Services, determine the speed at which your device is traveling, and for any other purpose described in this privacy policy. For more information about how you can control our collection of location information, please see "Your Choices" below.
 <br>Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to you. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). For more information about cookies, and how to disable them, please see "Your Choices" below.
- 
- 
-Information We Collect From Other Sources
- 
-We may also obtain information from other sources and combine that with information we collect through our Services.
- 
-Use of Information
+<br><br>Information We Collect From Other Sources
+<br><br>We may also obtain information from other sources and combine that with information we collect through our Services.
+<br><br>Use of Information
 <br>We may use information about you for various purposes, including to:
 <br>Provide, maintain and improve our Services, including to provide additional features and content for your messages;
 <br>Provide and deliver the products and services you request, process transactions and send you related information;
@@ -35,8 +25,7 @@ Use of Information
 <br>Link or combine with information we get from others to help understand your needs and provide you with better service;
 <br>Detect, investigate and/or prevent fraudulent, unauthorized or illegal activity; and
 Carry out any other purpose for which the information was collected.
- 
-Sharing of Information
+<br><br>Sharing of Information
 <br>We may share information about you as follows or as otherwise described in this Privacy Policy:
 <br>With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
 <br>In response to legal process or a request for information if we believe disclosure is in accordance with any applicable law, rule, or regulation, or as otherwise required by any applicable law, rule or regulation;
@@ -44,31 +33,20 @@ Sharing of Information
 <br>In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
 With your consent or at your direction.
 <br>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
- 
-Analytics Services Provided by Others
+<br><br>Analytics Services Provided by Others
 <br>We may allow others to provide analytics services on our behalf. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity.
- 
-Security
+<br><br>Security
 <br>We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
- 
-Children
+<br><br>Children
 <br>We do not knowingly collect personal information from users under the age of thirteen. We do, however, allow children under the age of thirteen to use certain areas or features of our Services that do not involve the collection of user information, aside from certain device information that may be collected as necessary to the operation and support of the Services.
- 
- 
-Your Choices
- 
-Device Information
+<br><br>Your Choices
+<br><br>Device Information
 <br>Certain features of the Services require access to your device's native phonebook and image storage applications (e.g., to find friends, set background photo for app).  If you later decide to revoke your consent and prevent us from continuing to access your phonebook and image storage applications, you can do so by either changing the settings on your device, if this settings option is provided by your device operating system, or by following the standard uninstall process and removing our Services from your device. On iOS devices, you can grant or revoke your consent at any time and prevent us from continuing to access your phonebook and image storage applications by changing the settings on your device.
- 
-Location
+<br><br>Location
 <br>When you first launch any features of our Services that collect location information, you will be asked to consent to our collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information by changing the preferences on your mobile device. If you do so, certain features of our Services will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove our Services from your device.
- 
-Cookies
+<br><br>Cookies
 <br>Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our website.
- 
-Push Notifications/Alerts
+<br><br>Push Notifications/Alerts
 <br>Craftsman Spirit may send push notifications or alerts to your device. You can deactivate these messages at any time by changing the notification settings on your device.
- 
- 
-Contact
+<br><br>Contact
 <br>To contact us, please send an email to spiritcraftsman@gmail.com
