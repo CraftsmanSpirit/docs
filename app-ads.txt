@@ -16,6 +16,8 @@ openx.com, 540182293, RESELLER, 6a698e2ec38604c6
 rhythmone.com, 1432377581,DIRECT, a670c89d4a324e47
 rhythmone.com, 665259327, DIRECT, a670c89d4a324e47
 rhythmone.com, 2451244104, DIRECT, a670c89d4a324e47
+#Mopub
+mopub.com, 5e9ca180656f47409256a85a0d27d9da, DIRECT, 74b46c0ea83967ca
 #PubNative
 pubnative.net, 1007327, DIRECT, d641df8625486a7b
 Pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
