@@ -8,6 +8,7 @@ media.net, 8CULY277R, RESELLER
 #Mopub
 mopub.com, 5e9ca180656f47409256a85a0d27d9da, DIRECT, 74b46c0ea83967ca
 #PubNative
+lkqd.net, 696, DIRECT, 59c49fa9598a0117
 lkqd.net, 866, DIRECT, 59c49fa9598a0117
 pubnative.net, 1008040, DIRECT, d641df8625486a7b
 pubnative.net, 1007644, DIRECT, d641df8625486a7b
