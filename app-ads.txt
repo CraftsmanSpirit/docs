@@ -5,6 +5,8 @@ google.com, pub-1232265399417302, RESELLER
 indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
 pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
 media.net, 8CULY277R, RESELLER
+#Meta
+facebook.com, 1153985718676540, RESELLER, c3e20eee3f780d68
 #Mopub
 mopub.com, 5e9ca180656f47409256a85a0d27d9da, DIRECT, 74b46c0ea83967ca
 #PubNative
@@ -599,5 +601,3 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 yahoo.com, 59318, RESELLER
 yandex.com, 37982190, RESELLER
-#Meta
-facebook.com, 1153985718676540, RESELLER, c3e20eee3f780d68
