@@ -35,7 +35,7 @@ With your consent or at your direction.
 <br><br>Do third parties see and/or have access to information obtained by the Application?
 <br>Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 <br>Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-<br>   [Google Play Services](https://www.google.com/policies/privacy/)
+<br>[Google Play Services](https://www.google.com/policies/privacy/)
 <br>   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 <br>   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 <br>   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
