@@ -42,6 +42,7 @@ With your consent or at your direction.
 <br>Unity: https://unity3d.com/legal/privacy-policy
 <br>AppLovin: https://www.applovin.com/privacy/
 <br>Vungle: https://vungle.com/privacy/
+
 <br>The Service Provider may disclose User Provided and Automatically Collected Information:
 <br>   as required by law, such as to comply with a subpoena, or similar legal process;
 <br>   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
